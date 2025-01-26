@@ -1,6 +1,3 @@
-# CPIT305 - Advanced-Programming
-This repository hosts the examples developed for the CPIT305 - Advanced Programming course.
-
 # CPIT305 - Advanced Programming
 
 Welcome to the **CPIT305 - Advanced Programming** repository! This repository contains the source code and examples from the course. It is organized by chapters to help you easily navigate and find the resources you need.
@@ -9,7 +6,7 @@ Welcome to the **CPIT305 - Advanced Programming** repository! This repository co
 
 ## Table of Contents
 
-1. [Introduction and Basics Revision](#chapter-1-introduction-basics-and-object-oriented-programming-oop-revision)
+1. [Introduction, Basics and Object-Oriented Programming (OOP) Revision](#chapter-1-introduction-basics-and-object-oriented-programming-oop-revision)
 2. [Object-Oriented Programming (OOP)](#chapter-2-object-oriented-programming-oop)
 3. [Graphical User Interfaces (GUIs)](#chapter-3-graphical-user-interfaces-guis)
 4. [Event-Driven Programming](#chapter-4-event-driven-programming)
