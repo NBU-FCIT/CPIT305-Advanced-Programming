@@ -28,18 +28,17 @@ This chapter reviews the fundamental programming concepts to establish a strong 
 - [Example 7: Arrays](CodeExamples/src/cpit305/chapter1/Example05.java)
 - [Example 8: Classes and Objects](CodeExamples/src/cpit305/chapter1/Example06.java) [Students.java](CodeExamples/src/cpit305/chapter1/Student.java)
 
-
-
-
-
-ForLoopExample
 ---
 
 ## Chapter 2: Graphical User Interfaces (GUIs)
 Develop interactive applications using graphical user interfaces.
-- [Example 1: Simple GUI Application](examples/chapter2/simple_gui.java)
-- [Example 2: Event Handling in GUI](examples/chapter2/event_handling.java)
-- [Example 3: Layout Management](examples/chapter2/layout_management.java)
+- [Example 1: Simple GUI](CodeExamples/src/cpit305/chapter2/FirstFrame.java)
+- [Example 2: Simple GUI with inheritance](CodeExamples/src/cpit305/chapter2/MyFrame.java)
+- [Example 3: BorderLayout](CodeExamples/src/cpit305/chapter2/JFrameWithBorderLayout.java)
+- [Example 4: FlowLayout](CodeExamples/src/cpit305/chapter2/JFrameWithFlowLayout.java)
+- [Example 5: GridLayout](CodeExamples/src/cpit305/chapter2/JFrameWithGridLayout.java)
+- [Example 6: NullLayout](CodeExamples/src/cpit305/chapter2/JFrameWithNullLayout.java)
+- [Example 7: Frame with Multiple Layout Managers](CodeExamples/src/cpit305/chapter2/MultipleLayoutManagersExample.java)
 
 ---
 
