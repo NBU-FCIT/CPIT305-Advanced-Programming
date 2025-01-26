@@ -21,7 +21,7 @@ Welcome to the **CPIT305 - Advanced Programming** repository! This repository co
 
 ---
 
-## Chapter 1: Introduction, Basics and Object-Oriented Programming (OOP)Revision 
+## Chapter 1: Introduction, Basics and Object-Oriented Programming (OOP) Revision 
 This chapter reviews the fundamental programming concepts to establish a strong foundation.
 - [Example 1: Basic Syntax](examples/chapter1/basic_syntax.java)
 - [Example 2: Control Flow](examples/chapter1/control_flow.java)
