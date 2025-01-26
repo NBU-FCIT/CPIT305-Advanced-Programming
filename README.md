@@ -26,7 +26,7 @@ This chapter reviews the fundamental programming concepts to establish a strong 
 - [Example 5: Loops: do..while](CodeExamples/src/cpit305/chapter1/DoWhileLoopExample.java)
 - [Example 6: Methods and methods call](CodeExamples/src/cpit305/chapter1/Example04.java)
 - [Example 7: Arrays](CodeExamples/src/cpit305/chapter1/Example05.java)
-- [Example 8: Classes and Objects](CodeExamples/src/cpit305/chapter1/Example06.java) [](CodeExamples/src/cpit305/chapter1/Student.java)
+- [Example 8: Classes and Objects](CodeExamples/src/cpit305/chapter1/Example06.java) [Students.java](CodeExamples/src/cpit305/chapter1/Student.java)
 
 
 
