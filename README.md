@@ -20,9 +20,19 @@ Welcome to the **CPIT305 - Advanced Programming** repository! This repository co
 ## Chapter 1: Introduction, Basics and Object-Oriented Programming (OOP) Revision 
 This chapter reviews the fundamental programming concepts to establish a strong foundation.
 - [Example 1: Basic Method Call from Scanner Class](CodeExamples/src/cpit305/chapter1/Example01.java)
-- [Example 2: Control Flow](examples/chapter1/control_flow.java)
-- [Example 3: Functions and Methods](examples/chapter1/functions_and_methods.java)
+- [Example 2: Control Flow: if..else](CodeExamples/src/cpit305/chapter1/Example02.java)
+- [Example 3: Loops: for](CodeExamples/src/cpit305/chapter1/ForLoopExample.java)
+- [Example 4: Loops: while](CodeExamples/src/cpit305/chapter1/WhileLoopExample.java)
+- [Example 5: Loops: do..while](CodeExamples/src/cpit305/chapter1/DoWhileLoopExample.java)
+- [Example 6: Methods and methods call](CodeExamples/src/cpit305/chapter1/Example04.java)
+- [Example 7: Arrays](CodeExamples/src/cpit305/chapter1/Example05.java)
+- [Example 8: Classes and Objects](CodeExamples/src/cpit305/chapter1/Example06.java) [](CodeExamples/src/cpit305/chapter1/Student.java)
 
+
+
+
+
+ForLoopExample
 ---
 
 ## Chapter 2: Graphical User Interfaces (GUIs)
