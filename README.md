@@ -7,14 +7,13 @@ Welcome to the **CPIT305 - Advanced Programming** repository! This repository co
 ## Table of Contents
 
 1. [Introduction, Basics and Object-Oriented Programming (OOP) Revision](#chapter-1-introduction-basics-and-object-oriented-programming-oop-revision)
-2. [Object-Oriented Programming (OOP)](#chapter-2-object-oriented-programming-oop)
-3. [Graphical User Interfaces (GUIs)](#chapter-3-graphical-user-interfaces-guis)
-4. [Event-Driven Programming](#chapter-4-event-driven-programming)
-5. [Exception Handling](#chapter-5-exception-handling)
-6. [Strings and Text I/O](#chapter-6-strings-and-text-io)
-7. [Multithreading and Parallel Programming](#chapter-7-multithreading-and-parallel-programming)
-8. [Java Database Connectivity (JDBC)](#chapter-8-java-database-connectivity-jdbc)
-9. [Network Programming](#chapter-9-network-programming)
+3. [Graphical User Interfaces (GUIs)](#chapter-2-graphical-user-interfaces-guis)
+4. [Event-Driven Programming](#chapter-3-event-driven-programming)
+5. [Exception Handling](#chapter-4-exception-handling)
+6. [Strings and Text I/O](#chapter-5-strings-and-text-io)
+7. [Multithreading and Parallel Programming](#chapter-6-multithreading-and-parallel-programming)
+8. [Java Database Connectivity (JDBC)](#chapter-7-java-database-connectivity-jdbc)
+9. [Network Programming](#chapter-8-network-programming)
 
 ---
 
