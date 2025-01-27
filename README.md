@@ -39,7 +39,7 @@ Develop interactive applications using graphical user interfaces.
 - [Example 5: GridLayout](CodeExamples/src/cpit305/chapter2/JFrameWithGridLayout.java)
 - [Example 6: NullLayout](CodeExamples/src/cpit305/chapter2/JFrameWithNullLayout.java)
 - [Example 7: Frame with Multiple Layout Managers](CodeExamples/src/cpit305/chapter2/MultipleLayoutManagersExample.java)
-
+- [Example 8: User Registration Form](CodeExamples/src/cpit305/chapter2/UserRegistrationForm.java)
 ---
 
 ## Chapter 3: Event-Driven Programming
