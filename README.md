@@ -46,8 +46,8 @@ Develop interactive applications using graphical user interfaces.
 
 ## Chapter 3: Event-Driven Programming
 Learn how to write programs that respond to user or system events.
-- [Example 1: Button Click Events](examples/chapter3/button_click.java)
-- [Example 2: Mouse Events](examples/chapter3/mouse_events.java)
+- [Example 1: User Registration Form wuth actions handling](CodeExamples/src/cpit305/chapter3/UserRegistrationForm.java)
+- [Example 2: Frame with Menu](CodeExamples/src/cpit305/chapter3/FrameWithMenu.java)
 
 ---
 
