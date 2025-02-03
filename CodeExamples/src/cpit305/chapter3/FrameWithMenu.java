@@ -18,7 +18,7 @@ public class FrameWithMenu extends JFrame implements ActionListener {
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         setBounds(100, 100, 800, 600);
         
-        // Menue creation
+        // Menu creation
         JMenuBar mb = new JMenuBar();
         JMenu mFile = new JMenu("File");
         JMenuItem miNewProject = new JMenuItem("New Project");
@@ -60,7 +60,6 @@ public class FrameWithMenu extends JFrame implements ActionListener {
             if(choice == 0){
                 System.exit(0);
             }    
-            
         } else if(e.getActionCommand().equals("Choose Color")){
             Color col = JColorChooser.showDialog(this, "Please choose a backgraound color", Color.lightGray);
             getContentPane().setBackground(col);
