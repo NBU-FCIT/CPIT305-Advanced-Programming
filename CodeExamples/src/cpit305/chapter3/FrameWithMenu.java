@@ -54,6 +54,14 @@ public class FrameWithMenu extends JFrame implements ActionListener {
         new FrameWithMenu();
     }
 
+    
+    
+    
+    
+    
+    
+    
+    
     public void actionPerformed(ActionEvent e) {
         if(e.getActionCommand().equals("Exit")){
             int choice = JOptionPane.showConfirmDialog(this, "Are you sure that you want to exit?", "Exit confirmation", JOptionPane.YES_NO_CANCEL_OPTION, JOptionPane.QUESTION_MESSAGE);
