@@ -53,17 +53,21 @@ Learn how to write programs that respond to user or system events.
 
 ## Chapter 4: Exception Handling
 Understand how to detect and manage errors effectively in your code.
-- [Example 1: Try-Catch Block](examples/chapter4/try_catch.java)
-- [Example 2: Throwing Exceptions](examples/chapter4/throwing_exceptions.java)
-- [Example 3: Custom Exceptions](examples/chapter4/custom_exceptions.java)
+- [Example 1: ArrayIndexOutOfBoundsException](CodeExamples/src/cpit305/chapter4/ArrayIndexOutOfBoundsExceptionExample.java)
+- [Example 2: InputMismatchException and ArithmeticException](CodeExamples/src/cpit305/chapter4/InputMismatchExceptionExample.java)
 
 ---
 
 ## Chapter 5: Strings and Text I/O
 Handle text input, output, and advanced string operations.
-- [Example 1: String Manipulation](examples/chapter5/string_manipulation.java)
-- [Example 2: File Reading and Writing](examples/chapter5/file_io.java)
-- [Example 3: Text Parsing](examples/chapter5/text_parsing.java)
+- [Example 1: String Objects Comparison](CodeExamples/src/cpit305/chapter5/StringObjectsComparison.java)
+- [Example 2: String Content Comparison](CodeExamples/src/cpit305/chapter5/StringContentComparison.java)
+- [Example 3: String Content Comparison](CodeExamples/src/cpit305/chapter5/StringLength.java)
+- [Example 4: String charAt Method](CodeExamples/src/cpit305/chapter5/StringCharAt.java)
+- [Example 5: String Concatenation](CodeExamples/src/cpit305/chapter5/StringConcatenation.java)
+- [Example 6: String Methods](CodeExamples/src/cpit305/chapter5/StringMethods.java)
+- [Example 7: String substring Method](CodeExamples/src/cpit305/chapter5/StringSubstring.java)
+- [Example 8: String split Method](CodeExamples/src/cpit305/chapter5/StringSplit.java)
 
 ---
 
