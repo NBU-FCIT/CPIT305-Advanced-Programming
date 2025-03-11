@@ -83,9 +83,11 @@ Explore techniques for concurrent programming to improve performance.
 
 ## Chapter 7: Java Database Connectivity (JDBC)
 Learn to connect and interact with databases using Java.
-- [Example 1: Connecting to a Database](examples/chapter7/db_connection.java)
-- [Example 2: Executing SQL Queries](examples/chapter7/sql_queries.java)
-- [Example 3: Prepared Statements](examples/chapter7/prepared_statements.java)
+- [Example 1: Test Connection](CodeExamples/src/cpit305/chapter7/TestConnection.java)
+- [Example 2: Test Insert](CodeExamples/src/cpit305/chapter7/TestInsert.java)
+- [Example 3: Test Update](CodeExamples/src/cpit305/chapter7/TestUpdate.java)
+- [Example 4: Test Delete](CodeExamples/src/cpit305/chapter7/TestDelete.java)
+- [Example 5: Test Select](CodeExamples/src/cpit305/chapter7/TestSelect.java)
 
 ---
 
