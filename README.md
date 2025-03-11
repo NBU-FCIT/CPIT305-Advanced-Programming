@@ -73,10 +73,12 @@ Handle text input, output, and advanced string operations.
 
 ## Chapter 6: Multithreading and Parallel Programming
 Explore techniques for concurrent programming to improve performance.
-- [Example 1: Creating Threads](examples/chapter6/creating_threads.java)
-- [Example 2: Synchronization](examples/chapter6/synchronization.java)
-- [Example 3: Thread Pools](examples/chapter6/thread_pools.java)
-
+- [Example 1: One Task Without Thread](CodeExamples/src/cpit305/chapter6/OneTaskWithoutThread.java)
+- [Example 2: Two Tasks Without Thread](CodeExamples/src/cpit305/chapter6/TwoTasksWithoutThread.java)
+- [Example 3: Two Tasks Without Thread (another example)](CodeExamples/src/cpit305/chapter6/TwoTasks.java)
+- [Example 4: Task A Thread](CodeExamples/src/cpit305/chapter6/TaskAThread.java)
+- [Example 5: Task B Thread](CodeExamples/src/cpit305/chapter6/TaskBThread.java)
+- [Example 6: MultiThreading Test](CodeExamples/src/cpit305/chapter6/MultiThreadingTest.java)
 ---
 
 ## Chapter 7: Java Database Connectivity (JDBC)
