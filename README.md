@@ -93,9 +93,8 @@ Learn to connect and interact with databases using Java.
 
 ## Chapter 8: Network Programming
 Build networked applications for data communication.
-- [Example 1: Simple Client-Server Communication](examples/chapter8/client_server.java)
-- [Example 2: Multi-Client Server](examples/chapter8/multi_client_server.java)
-- [Example 3: Sending Files over a Network](examples/chapter8/file_transfer.java)
+- [Example 1: Server](CodeExamples/src/cpit305/chapter8/Server.java)
+- [Example 2: Client](CodeExamples/src/cpit305/chapter8/Client.java)
 
 ---
 
